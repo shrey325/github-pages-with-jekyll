@@ -1,5 +1,5 @@
 ---
-theme: "minima"
+minima
 title: "Welcome to my Website"
 ---
 
