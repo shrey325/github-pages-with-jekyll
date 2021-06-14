@@ -1,5 +1,5 @@
 ---
-title: "Welcome to my blog"
+title: Wlecome to my Website
 ---
 
-I'm glad you are here. I plan to talk about ...
+Hi there, my name is Shrey Aggarwal. 
